@@ -1,5 +1,7 @@
 # online-annotate
 
+MongoDB installed and running ("mongodb://localhost:27017/annotate")
+
 Start server 
 -cd /server 
 -npm install 
@@ -11,3 +13,4 @@ Start Client
 -npm start
 
 In the browser (http://localhost:3000)
+
