@@ -1,5 +1,13 @@
-# mean-angular2-registration-login-example
+# online-annotate
 
-MEAN Stack with Angular 2 - User Registration and Login Example & Tutorial
+Start server 
+-cd /server 
+-npm install 
+-node server.js (http://localhost:4000)
 
-For details and documentation go to http://jasonwatmore.com/post/2017/02/22/mean-with-angular-2-user-registration-and-login-example-tutorial
+Start Client 
+-cd client 
+-npm install 
+-npm start
+
+In the browser (http://localhost:3000)
